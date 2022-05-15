@@ -6672,6 +6672,7 @@ components:
         - kingOfTheHill
         - racingKings
         - threeCheck
+        - puzzle
 
     Clock:
       type: object
